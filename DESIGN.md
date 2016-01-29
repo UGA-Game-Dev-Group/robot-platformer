@@ -1,1 +1,0 @@
-# robo-platformer design document
