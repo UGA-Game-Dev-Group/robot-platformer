@@ -7,6 +7,10 @@ To work on this project, first do
 
 Then, open the project in Unity.
 
+## wiki
+
+The wiki is our design document. Put design related ideas and especially finalized concepts there.
+
 ## contributing
 
 *Contributions to this project are limited to those in the UGAMEDEV. While others may fork and extend the project, we will not accept pull requests from those not in the group.*
